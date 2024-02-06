@@ -18,5 +18,9 @@ Suba tudo em um repositório e faça a entrega.
 
 # Executar
 ```
+git clone https://github.com/gspadilha/full-cycle-modulo-docker-desafio-nginx-com-nodejs.git
+
+cd full-cycle-modulo-docker-desafio-nginx-com-nodejs
+
 docker-compose up -d --build
 ```
